@@ -11,12 +11,13 @@ All artwork is from the game Witcher 3: Wild Hunt.
 
 INSTALLATION AND SETUP (MUST READ):
 
-1. Install Visual Studio Code
-2. In VSCode, go to Extensions -> search for "C/C++" -> install the first result (by C/C++ Microsoft).
-3. Download raylib (https://www.raylib.com/). raylib is necessary to run the code.
-4. Download raylib 4.5 Windows Installer (with MinGW compiler).
-5. Run raylib installer. Windows may warn you about the file, click run anyway.
-6. Open VSCode, file -> open workspace from file -> select "main.code-workspace" in the card game directory.
+1. Download Card-Game.zip and extract contents.
+2. Install Visual Studio Code.
+3. In VSCode, go to Extensions -> search for "C/C++" -> install the first result (by C/C++ Microsoft).
+4. Download raylib (https://www.raylib.com/). raylib is necessary to run the code.
+5. Download raylib 4.5 Windows Installer (with MinGW compiler).
+6. Run raylib installer. Windows may warn you about the file, click run anyway.
+7. Open VSCode, file -> open workspace from file -> select "main.code-workspace" in the card game directory.
 
 You should be able to run the code now.
 
