@@ -16,6 +16,7 @@ INSTALLATION AND SETUP (MUST READ):
 3. Download raylib (https://www.raylib.com/). raylib is necessary to run the code.
 4. Download raylib 4.5 Windows Installer (with MinGW compiler).
 5. Run raylib installer. Windows may warn you about the file, click run anyway.
+6. Open VSCode, file -> open workspace from file -> select "main.code-workspace" in the card game directory.
 
 You should be able to run the code now.
 
